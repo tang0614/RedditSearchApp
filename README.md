@@ -13,5 +13,5 @@
 
 ### In-app Screens
 
-![Seach key words](public/image/start.png)
+![Seach key words](public/start.png)
 
