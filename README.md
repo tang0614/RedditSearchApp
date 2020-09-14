@@ -7,7 +7,7 @@
 * go to local host
 
 
-### Play this game using chrome 
+### Search Reddit
 [View Live here](https://xinyutang-redditsearch.herokuapp.com/)
 
 
