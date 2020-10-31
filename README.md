@@ -1,4 +1,7 @@
-## Reddit search in Javascript
+## Reddit search API
+
+### PROTOTYPE
+Using reddit public API to retrieve related reddits' title and body.
 
 ### Running
 * clone this repo
